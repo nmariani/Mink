@@ -1,5 +1,5 @@
 {
-    "name":         "behat/mink",
+    "name":         "nmariani/mink",
     "description":  "Web acceptance testing framework for PHP 5.3",
     "keywords":     ["web", "testing", "browser"],
     "homepage":     "http://mink.behat.org/",
